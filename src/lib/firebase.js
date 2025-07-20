@@ -8,11 +8,11 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: "translucent-c58f2.firebaseapp.com",
-  projectId: "translucent-c58f2",
-  storageBucket: "translucent-c58f2.firebasestorage.app",
-  messagingSenderId: "191890135809",
-  appId: "1:191890135809:web:0c5e18ec07a6026fc8d900"
+  authDomain: "newtranslucent-f2fbb.firebaseapp.com",
+  projectId: "newtranslucent-f2fbb",
+  storageBucket: "newtranslucent-f2fbb.firebasestorage.app",
+  messagingSenderId: "240158764148",
+  appId: "1:240158764148:web:2e40b3003f8b928eacf521"
 };
 
 
